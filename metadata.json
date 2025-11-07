@@ -1,0 +1,5 @@
+{
+  "name": "Vidgen",
+  "description": "An application to generate videos from text prompts using the Gemini Veo 3 model, featuring a live wallpaper background.",
+  "requestFramePermissions": []
+}
